@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://your-logo-url-here.com/logo](https://drive.google.com/file/d/1bCc0qGWDlUDgOgJYtdz_BaxiLr-g2_JE/view?usp=sharing.png" alt="AvisenSolutions Logo" width="200"/>
+<img src="./assets/logo.png" alt="AvisenSolutions Logo" width="200"/>
 
 # AvisenSolutions
 
@@ -46,21 +46,16 @@ We are based in **East Africa**, with a vision to serve diaspora-linked business
 - Predictive maintenance systems
 - Machine learning solutions tailored to your domain
 
+### 🌐 IoT & Connected Systems
+- Lightweight communication firmware for industrial and commercial devices
+- Real-time telemetry ingestion pipelines connected to cloud dashboards
+- IoT device integration with existing business platforms
+- Smart monitoring systems for logistics, facilities, and operations
+
 ### 🧭 Consulting & Support
 - Tech consulting for startups and SMEs
 - IT support and maintenance packages
 - Tech debt audits and system architecture reviews
-
----
-
-## 🎯 Who We Work With
-
-| Segment | What We Help With |
-|---|---|
-| **SMEs** — shops, clinics, schools, restaurants, logistics | Digitise operations, automate processes, replace spreadsheets |
-| **Startups** | Build and ship your MVP fast with a reliable tech partner |
-| **NGOs & Government Agencies** | Automation pipelines, reporting tools, data dashboards |
-| **East African Businesses** | End-to-end digitisation; built for local context, global scale |
 
 ---
 
