@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/logo.png" alt="AvisenSolutions Logo" width="200"/>
+<img src="https://raw.githubusercontent.com/AvisenSolutions-Ltd/.github/main/assets/logo.png" alt="AvisenSolutions Logo" width="200"/>
 
 # AvisenSolutions
 
